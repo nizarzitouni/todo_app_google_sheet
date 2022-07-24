@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## SCREENS
 
-This project is a starting point for a Flutter application.
+ <img src="https://github.com/nizarzitouni/todo_app_google_sheet/blob/master/loading.PNG" width="400" height="600">
+ 
+ <img src="https://github.com/nizarzitouni/todo_app_google_sheet/blob/master/TDList.PNG" width="400" height="600">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
